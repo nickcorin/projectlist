@@ -1,6 +1,3 @@
-import java.io.FileOutputStream;
-import java.io.ObjectOutputStream;
-
 public class ProjectManagement {
 	static String filepath = "./projects.txt";
 
