@@ -1,6 +1,4 @@
 public class Project {
-	private static final long serialVersionUID = 1L;	
-
 	// Name of the project.
 	private String name;
 
