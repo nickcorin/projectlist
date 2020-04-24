@@ -1,5 +1,5 @@
 public class ProjectManagement {
-	static String filepath = "./projects.txt";
+	static String filepath = "projects.txt";
 
 	public static void main(String []args) {
 		ProjectList projects = new ProjectList();
